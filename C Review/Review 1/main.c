@@ -41,6 +41,9 @@ int main() {
     scanf("%d", &age);
     printf("%s is %d years old.\n", name, age);
     
+    //flush input buffer
+    while ( getchar() != '\n' );
+    
     //fgets - Let's print a custom Sentence
     printf("\n\nEnter a small sentence: ");
     fgets(sentence, 256, stdin); //The first arg is the variable name, the second arg is character limit, third is standard input

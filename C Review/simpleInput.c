@@ -40,6 +40,9 @@ int main() {
     printf("\nHey there, %s. \nEnter your age: ", name);
     scanf("%d", &age);
     printf("%s is %d years old.\n", name, age);
+	
+	//flush input buffer
+    while ( getchar() != '\n' );
     
     //fgets - Let's print a custom Sentence
     printf("\n\nEnter a small sentence: ");
