@@ -33,3 +33,5 @@ printf("C Review by Anthony Narlock");
 > [#13 While Loops](https://github.com/narlock/cpp-archive/blob/main/C%20Review/whileLoops.c)
 
 > [#14 For Loops & 2D Arrays](https://github.com/narlock/cpp-archive/blob/main/C%20Review/2Darrays.c)
+
+> [#15 Pointers & Memory Addresses](https://github.com/narlock/cpp-archive/blob/main/C%20Review/pointers.c)
