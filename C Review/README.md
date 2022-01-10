@@ -19,3 +19,5 @@ printf("C Review by Anthony Narlock");
 > [#6 Simple Mab Libs Game](https://github.com/narlock/cpp-archive/blob/main/C%20Review/simpleMadLib.c)
 
 > [#7 Arrays & Iterating over them](https://github.com/narlock/cpp-archive/blob/main/C%20Review/arrays.c)
+
+> [#8 Simple Functions](https://github.com/narlock/cpp-archive/blob/main/C%20Review/functions.c)
