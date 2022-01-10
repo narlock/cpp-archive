@@ -25,3 +25,5 @@ printf("C Review by Anthony Narlock");
 > [#9 Functions with Parameters](https://github.com/narlock/cpp-archive/blob/main/C%20Review/functionsWithParameters.c)
 
 > [#10 If Statements](https://github.com/narlock/cpp-archive/blob/main/C%20Review/ifStatement.c)
+
+> [#11 Better Calculator with Switch Statement](https://github.com/narlock/cpp-archive/blob/main/C%20Review/calcSwitchStatements.c)
