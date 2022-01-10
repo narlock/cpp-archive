@@ -23,3 +23,5 @@ printf("C Review by Anthony Narlock");
 > [#8 Simple Functions](https://github.com/narlock/cpp-archive/blob/main/C%20Review/functions.c)
 
 > [#9 Functions with Parameters](https://github.com/narlock/cpp-archive/blob/main/C%20Review/functionsWithParameters.c)
+
+> [#10 If Statements](https://github.com/narlock/cpp-archive/blob/main/C%20Review/ifStatement.c)
