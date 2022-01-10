@@ -27,3 +27,5 @@ printf("C Review by Anthony Narlock");
 > [#10 If Statements](https://github.com/narlock/cpp-archive/blob/main/C%20Review/ifStatement.c)
 
 > [#11 Better Calculator with Switch Statement](https://github.com/narlock/cpp-archive/blob/main/C%20Review/calcSwitchStatements.c)
+
+> [#12 Structs](https://github.com/narlock/cpp-archive/blob/main/C%20Review/structs.c)
