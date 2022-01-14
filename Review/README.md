@@ -9,7 +9,7 @@ This contains all of the Review elements I wrote while for C++. I hope this help
 
 > [#1 Variables/Data Types, Console I/O, Operators, If/Then/Else, Functions](https://github.com/narlock/cpp-archive/blob/main/Review/Learn%20C%2B%2B/basics.cpp)
 
-> #2 Structured Data: Structs, Arrays, For/While Loops
+> [#2 Structured Data: Structs, Arrays, For/While Loops](https://github.com/narlock/cpp-archive/blob/main/Review/Learn%20C%2B%2B/arrays.cpp)
 
 > [#3 Classes (Intro through Polymorphism)](https://github.com/narlock/cpp-archive/tree/main/Review/Learn%20C%2B%2B/Classes%20I)
 
