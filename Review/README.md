@@ -17,4 +17,6 @@ This contains all of the Review elements I wrote while for C++. I hope this help
 
 > #5 Unordered Map, Linked List
 
+> [#6 Pointers, Memory Locations (C)](https://github.com/narlock/cpp-archive/blob/main/C%20Review/pointers.c)
+
 > #6 Graphics
