@@ -5,7 +5,7 @@ This contains all of the Review elements I wrote while for C++. I hope this help
 
 # <b>Contents</b>
 
-### <b>Learn Java Programming</b>
+### <b>Learn C++ Programming</b>
 
 > [#1 Variables/Data Types, Console I/O, Operators, If/Then/Else, Functions](https://github.com/narlock/cpp-archive/blob/main/Review/Learn%20C%2B%2B/basics.cpp)
 
@@ -19,4 +19,4 @@ This contains all of the Review elements I wrote while for C++. I hope this help
 
 > [#6 Pointers, Memory Locations (C)](https://github.com/narlock/cpp-archive/blob/main/C%20Review/pointers.c)
 
-> #6 Graphics
+> #7 Graphics
