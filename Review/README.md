@@ -19,4 +19,6 @@ This contains all of the Review elements I wrote while for C++. I hope this help
 
 > [#6 Pointers, Memory Locations (C)](https://github.com/narlock/cpp-archive/blob/main/C%20Review/pointers.c)
 
-> #7 Graphics
+> [#7 Header files with Object-oriented Programming]()
+
+> #8 Graphics
