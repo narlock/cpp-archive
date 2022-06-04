@@ -1,0 +1,3 @@
+This text was written to the file!
+This text is on the next line!
+This text was appended to the file.
